@@ -56,8 +56,11 @@ Revision/Addition Description and Link:
 
 # Bikram B
 Initial Description and Link:
-https://rpubs.com/bikrambarua/Tidyverse_Extend
-https://github.com/baruab/msdsrepo/blob/main/DATA-607/Tidy_Extend2.Rmd
+RPub link : https://rpubs.com/bikrambarua/Tidyverse_Extend 
+
+Giythub link : https://github.com/baruab/msdsrepo/blob/main/DATA-607/Tidy_Extend2.Rmd
+
+
 
 # Catherine C
 Initial Description and Link:
